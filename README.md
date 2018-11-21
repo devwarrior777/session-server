@@ -1,1 +1,1 @@
-'atomix session server' 
+atomix session server
